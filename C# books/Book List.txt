@@ -1,0 +1,7 @@
+1.Csharp高级编程(第7版)
+2.Visual C# 2010] Beginning Visual C# (CSharp) 2010
+3.WPF编程宝典
+4.深入浅出WPF
+5.Batch File Programming
+6.基于C#的23种设计模式
+7.新版设计模式手册[C#]
